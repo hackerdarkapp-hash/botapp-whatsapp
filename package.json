@@ -1,0 +1,11 @@
+{
+  "name": "telegram-admin-menu-builder",
+  "version": "2.0.0",
+  "description": "Telegram bot with persistent customizable menus, nested buttons, text and photo",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "telegraf": "^4.16.3"
+  }
+}
